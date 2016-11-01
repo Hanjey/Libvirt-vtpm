@@ -1,0 +1,4 @@
+EXPORTS
+    virAdmConnectOpen
+    virAdmConnectClose
+    virAdmConnectRef
